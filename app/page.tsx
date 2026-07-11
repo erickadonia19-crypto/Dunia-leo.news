@@ -1,1 +1,0 @@
-export default function Page(){return <main style={{padding:20,fontFamily:'sans-serif'}}><h1>DuniaLeo.news</h1><p>Karibu kwenye blog ya habari za dunia.</p></main>}
